@@ -16,14 +16,16 @@ then make.fun's pitch — make clips like this with AI and earn money on
   Rockstar's own media CDN
   (`media-rockstargames-com.akamaized.net/VI/downloads/videos/GTAVI_Trailer_2/`),
   cut and rendered with ffmpeg in this build session.
-- **The moment:** Lucia walks out of Leonida Penitentiary — the opening of
-  Trailer 2. It is the single most recognisable shot of the trailer: the
-  prison gate, the orange jumpsuit, and Vice City waiting outside. It tells a
-  viewer in the first second that this is GTA 6, and it holds them long
-  enough for the pitch.
+- **The moment:** Lucia walks out of Leonida Penitentiary at 1:04 of Trailer 2
+  — the trailer's most recognisable shot: golden-hour light, the chain-link
+  fence, and Vice City waiting outside. It tells a viewer in the first second
+  that this is GTA 6, and it holds them long enough for the pitch. The clip
+  then runs one short arc around it: the prison visit, Jason, a rooftop party,
+  the crew, a truck stunt, and a beach workout — all from Trailer 2.
 - **The pitch:** after the hook, on-screen text over the trailer's Vice City
-  montage — "Make clips like this with AI and earn money on make.fun" —
-  with the bounty page `make.fun/bounty/gta6-clipper-01` and a call to action.
+  footage — "Make clips like this with AI" / "and earn money on make.fun" —
+  with the bounty page `make.fun/bounty/gta6-clipper-01` and the call to
+  action "Start on make.fun".
 - **Format:** vertical 9:16, under 60 seconds, so it publishes as a YouTube
   Short.
 
